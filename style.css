@@ -1,4 +1,8 @@
-.h1{
- color:green; 
-  
+h1 {
+  color: green;
+  text-align: center;
+  background-color: gray;
+  font-size: 50px;
+  border: red 10px solid;
+  border-radius: 5px;
 }
